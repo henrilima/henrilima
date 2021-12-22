@@ -6,6 +6,8 @@
 I'm a a Systems Development student. I love learing new technology and skills of web. I want to work at others country, talk a lot with all sort of people and know more about the world.
 
 ### Technologies, Databases and FrameWorks I currently use:
+<hr />
+
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
