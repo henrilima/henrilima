@@ -3,7 +3,7 @@
 <p align="center">I'm a a Systems Development student. I love learing new technology and skills of web. I want to work at others country,
 talk a lot with all sort of people and know more about the world.</p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="./coraline.png" alt="coraline" align="center" width="250" height="250" />
