@@ -56,3 +56,11 @@ talk a lot with all sort of people and know more about the world.</p>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&layout=compact&theme=shades-of-purple)
 
 </div>
+
+<br><br>
+
+<div align="center">
+    
+![trophy](https://github-profile-trophy.vercel.app/?username=luas10c&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
+
+</div>
