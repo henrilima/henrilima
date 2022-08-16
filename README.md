@@ -6,7 +6,7 @@ talk a lot with all sort of people and know more about the world.</p>
 <br>
 
 <p align="center">
-  <img src="./coraline.png" alt="coraline" align="center" width="250" height="250" />
+  <img src="./icon.png" alt="icon" align="center" width="250" height="250" />
 </p>
 
 <br><br>
