@@ -1,7 +1,6 @@
-<h2 align="center">Hello, I'm Henri!</h2>
+<h2 align="center">Olá, meu nome é Henri!</h2>
 <br>
-<p align="center">I'm a a Systems Development student. I love learing new technology and skills of web. I want to work at others country,
-talk a lot with all sort of people and know more about the world.</p>
+<p align="center">Sou técnico em Desenvolvimento de Sistemas. Eu adoro aprender novas tecnologias e habilidades relacionadas à web. Eu quero trabalhar em outros países, conversar muito com todo tipo de pessoas e conhecer mais sobre o mundo e seus mistérios.</p>
 
 <br>
 
@@ -11,7 +10,7 @@ talk a lot with all sort of people and know more about the world.</p>
 
 <br><br>
 
-<h2 align="center">Technologies, Databases and FrameWorks I currently use</h2>
+<h2 align="center">Tecnologias, Bancos de Dados e FrameWorks que eu uso atualmente</h2>
 <br>
 
 <div align="center">
@@ -28,12 +27,12 @@ talk a lot with all sort of people and know more about the world.</p>
 
 <br><br>
 
-<h2 align="center">Productivity</h2>
+<h2 align="center">Produtividade</h2>
 <br>
 
 <div align="center">
     
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henriii.l)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrilima.llsh)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Opera Badge](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -46,7 +45,7 @@ talk a lot with all sort of people and know more about the world.</p>
 
 <br><br>
 
-<h2 align="center">My Github stats</h2>
+<h2 align="center">Meus status do Github</h2>
 <br>
 
 <div align="center">
@@ -60,6 +59,6 @@ talk a lot with all sort of people and know more about the world.</p>
 
 <div align="center">
     
-![trophy](https://github-profile-trophy.vercel.app/?username=luas10c&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=henrilima&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
 
 </div>
