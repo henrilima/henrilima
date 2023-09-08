@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="./icon.png" alt="icon" align="center" width="250" height="250" />
+  <img src="./henri.png" alt="icon" align="center" width="250" height="250" />
 </p>
 
 <br><br>
