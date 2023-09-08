@@ -2,10 +2,8 @@
 <br>
 <p align="center">Sou técnico em Desenvolvimento de Sistemas. Eu adoro aprender novas tecnologias e habilidades relacionadas à web. Eu quero trabalhar em outros países, conversar muito com todo tipo de pessoas e conhecer mais sobre o mundo e seus mistérios.</p>
 
-<br>
-
 <p align="center">
-  <img src="./henri.png" alt="icon" align="center" width="450" height="450" />
+  <img src="./henri.png" alt="icon" align="center" width="350" height="350" />
 </p>
 
 <br><br>
