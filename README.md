@@ -48,15 +48,20 @@
 
 <div align="center">
     
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=henrilima&show_icons=true&theme=shades-of-purple&hide=prs)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&layout=compact&theme=shades-of-purple)
-
-</div>
-
-<br><br>
-
-<div align="center">
-    
-![trophy](https://github-profile-trophy.vercel.app/?username=henrilima&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrilima&show_icons=true&locale=pt-br&theme=dark&icon_color=6f63ff" alt="Estatísticas do Seu Repositório">
+    </td>
+    <td align="center" width="50%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&layout=compact&locale=pt-br&theme=dark" alt="Linguagens Mais Usadas no Seu Repositório">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td align="center" width="50%">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=henrilima&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true&locale=pt" alt="Conquistas no GitHub">
+      </td>
+  </tr>
+</table>
