@@ -2,6 +2,8 @@
 <br>
 <p align="center">Sou técnico em Desenvolvimento de Sistemas. Eu adoro aprender novas tecnologias e habilidades relacionadas à web. Eu quero trabalhar em outros países, conversar muito com todo tipo de pessoas e conhecer mais sobre o mundo e seus mistérios.</p>
 
+<br><br>
+
 <p align="center">
   <img src="./henri.png" alt="icon" align="center" width="350" height="350" />
 </p>
@@ -17,7 +19,6 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Express.JS Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
