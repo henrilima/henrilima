@@ -22,6 +22,8 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Express.JS Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS Badge](https://img.shields.io/badge/EJS-2B2D2E?style=for-the-badge&logo=ejs&logoColor=A8B9CC)
+![Node.JS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
 <br><br>
