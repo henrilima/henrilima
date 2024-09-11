@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrilima&show_icons=false&locale=pt-br&theme=dark&icon_color=white" alt="Estatísticas do Repositório"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&locale=pt-br&theme=dark" alt="Linguagens Mais Usadas"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=henrilima&theme=dark&column=4&margin-w=4&margin-h=4&no-bg=false&no-frame=false&locale=pt-br" alt="Conquistas no GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=henrilima&theme=dark&column=4&margin-w=4&margin-h=4&no-bg=true&no-frame=true&locale=pt-br" alt="Conquistas no GitHub"/>
 </p>
 
 <h2 align="center">Contato</h2>
