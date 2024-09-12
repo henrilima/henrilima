@@ -9,6 +9,7 @@
   
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js&logoColor=6cc24a" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00afe1" alt="Python"/>
   
   <img src="https://img.shields.io/badge/Vue.js-101010?style=for-the-badge&logo=vue.js&logoColor=42b883" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=c9510c" alt="Git"/>
