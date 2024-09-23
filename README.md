@@ -2,7 +2,6 @@
 <p align="center">Sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software. Tenho um grande interesse por programação e estou sempre explorando novas tecnologias e habilidades. Além de criar interfaces gráficas e desenvolver bots para Discord, também sou apaixonado por histórias macabras japonesas e por descobrir curiosidades sobre biologia. Meu objetivo é aplicar minhas habilidades em projetos desafiadores, explorar novas tecnologias e colaborar com pessoas ao redor do mundo. Se você tem alguma ideia interessante ou um projeto em mente, adoraria conversar!</p>
 
 <h2 align="center">Tecnologias, Bancos de Dados e Frameworks</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00afe1" alt="CSS3"/>
@@ -20,21 +19,19 @@
 </p>
 
 <h2 align="center">Produtividade</h2>
-
 <p align="center">
   <a href="https://instagram.com/henrilima.llsh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-101010?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
   <img src="https://img.shields.io/badge/Windows-101010?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Opera-101010?style=for-the-badge&logo=Opera&logoColor=FF1B2D" alt="Opera"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-101010?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Chrome-101010?style=for-the-badge&logo=google-chrome&logoColor=f2f2f2" alt="Chrome"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-101010?style=for-the-badge&logo=vs-code&logoColor=f2f2f2" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Spotify-101010?&style=for-the-badge&logo=spotify&logoColor=1ED760" alt="Spotify"/>
   <img src="https://img.shields.io/badge/Udemy-101010?style=for-the-badge&logo=Udemy&logoColor=EC5252" alt="Udemy"/>
   <img src="https://img.shields.io/badge/PicPay-101010?style=for-the-badge&logo=picpay&logoColor=21C25E" alt="PicPay"/>
 </p>
 
 <h2 align="center">Meus Status no GitHub</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrilima&show_icons=false&locale=pt-br&theme=dark&icon_color=white" alt="Estatísticas do Repositório"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&locale=pt-br&theme=dark" alt="Linguagens Mais Usadas"/>
