@@ -35,6 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrilima&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="Github"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henrilima&theme=dark&hide_border=true&locale=pt-br" alt="Github"/>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&theme=dark&show_icons=true&hide_border=true&layout=compact&locale=pt-br" alt="GitHub"/>
 </p>
 
