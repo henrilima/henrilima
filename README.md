@@ -3,8 +3,9 @@
 
 <h2 align="center">Tecnologias, Bancos de Dados e Frameworks</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00afe1" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML-101010?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-101010?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS"/>
+  <img src="https://img.shields.io/badge/SCSS-101010?style=for-the-badge&logo=sass&logoColor=CC6699" alt="SCSS"/>
   
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js&logoColor=6cc24a" alt="Node.js"/>
