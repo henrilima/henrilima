@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=2a4e6c" alt="Python"/>
   
   <img src="https://img.shields.io/badge/Vue.js-101010?style=for-the-badge&logo=vue.js&logoColor=42b883" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Buefy-101010?style=for-the-badge&logo=buefy&logoColor=7957D5" alt="Buefy"/>
+  <img src="https://img.shields.io/badge/Bulma-101010?style=for-the-badge&logo=bulma&logoColor=00D1B2" alt="Bulma"/>
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=c9510c" alt="Git"/>
   
   <img src="https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=e66000" alt="Firebase"/>
