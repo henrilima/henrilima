@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=c9510c" alt="Git"/>
   
   <img src="https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=e66000" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-101010?style=for-the-badge&logo=sqlite&logoColor=4479A1" alt="SQLite"/>
+  
   <img src="https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/EJS-101010?style=for-the-badge&logo=ejs&logoColor=ffd400" alt="EJS"/>
 </p>
