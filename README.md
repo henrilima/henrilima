@@ -1,5 +1,5 @@
 <h2 align="center">Olá, meu nome é José Henrique!</h2>
-<p align="center">Sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software. Tenho um grande interesse por programação e estou sempre explorando novas tecnologias e habilidades. Além de criar interfaces gráficas e desenvolver bots para Discord, também sou apaixonado por histórias macabras japonesas e por descobrir curiosidades sobre biologia. Meu objetivo é aplicar minhas habilidades em projetos desafiadores, explorar novas tecnologias e colaborar com pessoas ao redor do mundo. Se você tem alguma ideia interessante ou um projeto em mente, adoraria conversar!</p>
+<p align="center">Sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Engenharia de Software. Tenho um grande interesse por programação e estou sempre explorando novas tecnologias e habilidades, além de criar interfaces gráficas e desenvolver bots para Discord. Meu objetivo é aplicar minhas habilidades em projetos desafiadores, explorar novas tecnologias e colaborar com pessoas ao redor do mundo. Se você tem alguma ideia interessante ou um projeto em mente, adoraria conversar!</p>
 
 <h2 align="center">Tecnologias, Bancos de Dados e Frameworks</h2>
 <p align="center">
