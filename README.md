@@ -40,8 +40,7 @@
 <h2 align="center">Meus Status no GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrilima&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="Github"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=18&layout=donut" alt="GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilima&theme=dark&show_icons=true&hide_border=true&locale=pt-br&langs_count=10&layout=donut" alt="GitHub"/>
 </p>
 
 <h2 align="center">Contato</h2>
